@@ -4,7 +4,7 @@ import java.awt.Point;
  * BackCmd.java
  * Command class to move a selected shape to the back
  * 
- * @author Sujay Busam
+ * @author Sujay Busam 10/21/13
  * @see Command
  */
 public class BackCmd extends Command {

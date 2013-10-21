@@ -4,7 +4,7 @@ import java.awt.*;
  * DeleteCmd.java
  * Command class to perform a shape delete.
  * 
- * @author Sujay Busam
+ * @author Sujay Busam 10/21/13
  * @see Command
  */
 public class DeleteCmd extends Command {

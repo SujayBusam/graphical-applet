@@ -4,7 +4,7 @@ import java.awt.*;
  * Rectangle.java
  * Class for a rectangle.
  *
- * @author Sujay Busam
+ * @author Sujay Busam 10/21/13
  * @see Shape
  */
 public class Rectangle extends Shape {
@@ -58,7 +58,7 @@ public class Rectangle extends Shape {
 	/**
 	 * Get the center point of the rectangle
 	 * 
-	 * @return
+	 * @return center the center Point
 	 */
 	public Point getCenter() {
 		Point center = new Point();

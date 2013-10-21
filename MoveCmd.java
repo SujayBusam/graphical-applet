@@ -4,7 +4,7 @@ import java.awt.*;
  * MoveCmd.java
  * Command class to perform a move command.
  * 
- * @author Sujay Busam
+ * @author Sujay Busam 10/21/13
  * @see Command
  */
 

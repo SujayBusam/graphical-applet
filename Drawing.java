@@ -3,9 +3,9 @@ import java.util.ArrayList;
 
 /**
  * Drawing.java
+ * Drawing class that adds, modifies, and draws the shapes onto the page
  *
- *
- * @author Sujay Busam
+ * @author Sujay Busam 10/21/13
  * CS10 PS-3
  */
 

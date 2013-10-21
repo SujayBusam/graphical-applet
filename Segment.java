@@ -6,7 +6,9 @@ import java.awt.*;
  * 
  * Written by THC for CS 5 Lab Assignment 3.
  *
- * @author Thomas H. Cormen
+ * @author Sujay Busam 10/21/13 
+ * @author Thomas H. Cormen originally wrote file containing only the 
+ * almostContainsPoint and distanceToPoint methods
  * @see Shape
  */
 public class Segment extends Shape {

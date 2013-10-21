@@ -3,7 +3,7 @@ import java.awt.*;
  * ColorCmd.java
  * Command class to select the color of the shape being drawn
  * 
- * @author Sujay Busam
+ * @author Sujay Busam 10/21/13
  * @see Command
  */
 public class ColorCmd extends Command {

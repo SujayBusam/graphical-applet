@@ -4,7 +4,7 @@ import java.awt.Point;
  * FrontCmd.java
  * Command class to move a selected shape to the front
  * 
- * @author Sujay Busam
+ * @author Sujay Busam 10/21/13
  * @see Command
  */
 public class FrontCmd extends Command {

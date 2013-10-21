@@ -6,10 +6,12 @@ import java.awt.*;
  * 
  * Written by THC for CS 5 Lab Assignment 3.
  *
- * @author Thomas H. Cormen 
+ * @author Thomas H. Cormen wrote original file containing only
+ * the pointInEllipse method
  * @see Shape
  * 
  * @author Sujay Busam added rest of code for CS10 PS-3
+ * 10/21/13
  */
 public class Ellipse extends Shape {
 	// Instance data known only to member functions
@@ -61,7 +63,7 @@ public class Ellipse extends Shape {
 	/**
 	 * Get the center point of the Ellipse
 	 * 
-	 * @return
+	 * @return center the center Point
 	 */
 	public Point getCenter() {
 		Point center = new Point();

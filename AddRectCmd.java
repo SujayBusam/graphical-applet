@@ -4,7 +4,7 @@ import java.awt.Point;
  * AddRectCmd.java
  * Command class to specify that a rectangle should be drawn.
  * 
- * @author Sujay Busam
+ * @author Sujay Busam 10/21/13
  * @see Command
  */
 public class AddRectCmd extends Command {

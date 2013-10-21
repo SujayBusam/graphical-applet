@@ -4,7 +4,7 @@ import java.awt.Point;
  * AddSegmentCmd.java
  * Command class to specify that a segment should be drawn.
  * 
- * @author Sujay Busam
+ * @author Sujay Busam 10/21/13
  * @see Command
  */
 public class AddSegmentCmd extends Command {
